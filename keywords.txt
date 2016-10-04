@@ -1,0 +1,8 @@
+/*
+this is a library to use an ultrasonic sensor hcsr-04 return the distance in CM
+
+made by Yeffri J. Salazar, Najt labs Guatemala 2016
+*/
+
+ultrasonicSensor	KEYWORD1
+distance	KEYWORD2
