@@ -12,7 +12,7 @@ class ultrasonicSensor
 {
 	public:
 		ultrasonicSensor(uint8_t trigger, uint8_t echo);
-		uint8_t distance();
+		uint16_t distance();
 	private:
 		uint8_t _trigger;
 		uint8_t _echo;	
